@@ -1,0 +1,138 @@
+header li { display: inline-block;
+    width: 4%;}        
+
+    header>ul { padding: 0;
+        text-align: center;
+      }
+
+        #logo {width: 17%;
+        vertical-align: middle;}
+
+#logo img { width: 66.81px;
+height: 79.38px;}
+
+#sec01 { height: 78vh;
+background-image: url(header-bg.png);
+background-repeat: no-repeat;
+background-size: contain;
+background-position: center;}
+
+a {text-decoration: none;
+  color: black;
+  font-family: sans-serif;
+  font-size: 13px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  font-size: 13px;
+  font-weight: 500;
+  font-weight: 700px;
+}
+    a:hover {
+       color: #ad9966;
+    }
+
+
+h1 {color: white;
+    font-family: "Playfair Display", serif;
+    font-size: 72px;
+    text-align: center;
+    margin-bottom: .5rem;
+    font-family: inherit;
+    font-weight: 500;
+    letter-spacing: 10.8px;
+}
+
+#direita{ 
+  width: 92px;
+    height:180px;
+    position: fixed;
+    background-image: url(SetaDireita.png);
+    right: 0;
+    background-repeat: no-repeat;
+    top: 43%;
+  }
+
+       .overlay {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        text-align: center;
+        color: white;
+      }
+      
+      .linha {
+        width: 445px;
+        height: 0.1px;
+        background: white;
+        margin: 10px auto;
+      }
+      
+      .overlay p {
+        font-size: 18px;
+        text-transform: uppercase;
+        padding-top: 8px;
+        font-family: sans-serif;
+      }
+
+      #Appetizer {
+        background-color: #faf5f0;
+        width: 635px;
+        height: 1175.5px;
+        position: absolute;
+        left: 45%;
+        background-repeat: no-repeat;
+      }
+
+      #esquerda{ width: 92px;
+        height: 180px;
+        position: fixed;
+        left: 0;
+        top: 43%;
+      background-image: url(SetaEsquerda.png);
+    }
+
+        h3 {font-size: 21px;
+        padding-bottom: 20px;
+        font-style: italic;
+        text-transform: uppercase;
+        margin-bottom: 50px;
+        margin-top: 120px;
+        line-height: 1.5em;
+        font-family: "Playfair Display",serif;
+        text-align: center;
+      }
+
+      #menu_item {
+        text-align: center;
+        font-size: 15px;
+        line-height: 1.7;
+        font-family: "Roboto",sans-serif;
+        font-weight:400em;
+      }
+
+      #menu_subitem {text-align: center;
+        color: #777777;
+        font-size: 15px;
+        line-height: 1.7;
+        font-family: "Roboto",sans-serif;
+        font-weight: 400;
+      }
+
+      h4 {font-size: 48px;
+        color:black
+        font-family "Playfair Display", serif;
+    font-size: 72px;
+    text-align: center;
+    margin-bottom: .5rem;
+    font-family: inherit;
+    font-weight: 500;
+    letter-spacing: 10.8px;
+  }
+
+        #Full_menu {width: 445px;
+          height: 516px;
+          position: absolute;
+          left: 9%;
+          margin-top: 17%;
+        }
